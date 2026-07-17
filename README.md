@@ -30,30 +30,6 @@ The website consists of the following pages:
 
 ---
 
-## 📂 Project Structure
-
-
-
----
-
-## 🌐 Live Demo
-
-🔗 https://YOUR-GITHUB-PAGES-LINK
-
----
-
-## 📷 Screenshots
-
-### Home Page
-
-![Home Page](screenshots/home-page.png)
-
-### Dashboard Page
-
-![Dashboard Page](screenshots/dashboard-page.png)
-
----
-
 ## 👤 Author
 
 **Matin Ataei**
